@@ -1,6 +1,6 @@
 # Aprenda Lógica de Programação com JavaScript e Projetos Web
 Página com os códigos de estudo do livro Aprenda Lógica de Programação com JavaScript e Projetos Web de Rummenigge Dantas.
-Para usar os códigos, baixe o arquivo index.html. Abra ele em algum editor de texto. Você irá encontrar a seguinte linha:
+Para usar os códigos, baixe o arquivo index.html. Depois procure a questão que você deseja executar. Procure ela na pasta do capítulo. Baixe o arquivoAbra ele em algum editor de texto. Você irá encontrar a seguinte linha:
 
 >`<script src="script.js"></script>`
 
