@@ -1,0 +1,11 @@
+table, td {
+border-style: solid;
+border-width: 2px;
+}
+table{
+width: 50%;
+}
+td {
+background-color: green;
+height: 50px;
+}
